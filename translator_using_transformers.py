@@ -579,9 +579,3 @@ def translate(sentence):
     
     print("Input: {}".format(sentence))
     print("Predicted translation: {}".format(predicted_sentence))
-
-translate("I will address this issue as soon as possible")
-
-translate("I'm sure that tomorrow will be a beautiful day")
-
-translate("Natural Language Processing is an interesting field of study")
